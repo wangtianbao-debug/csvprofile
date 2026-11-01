@@ -1,0 +1,7 @@
+node_modules/
+*.log
+demo.csv
+data.csv
+export.csv
+.DS_Store
+Thumbs.db
